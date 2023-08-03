@@ -1,0 +1,15 @@
+/Users/haplo/C#/csFIles/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/haplo/C#/csFIles/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/haplo/C#/csFIles/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/haplo/C#/csFIles/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/haplo/C#/csFIles/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/haplo/C#/csFIles/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll
