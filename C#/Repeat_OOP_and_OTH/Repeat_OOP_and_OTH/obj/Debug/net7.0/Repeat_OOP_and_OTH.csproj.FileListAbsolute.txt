@@ -1,0 +1,15 @@
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/bin/Debug/net7.0/Repeat_OOP_and_OTH
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/bin/Debug/net7.0/Repeat_OOP_and_OTH.deps.json
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/bin/Debug/net7.0/Repeat_OOP_and_OTH.runtimeconfig.json
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/bin/Debug/net7.0/Repeat_OOP_and_OTH.dll
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/bin/Debug/net7.0/Repeat_OOP_and_OTH.pdb
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.csproj.AssemblyReference.cache
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.AssemblyInfoInputs.cache
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.AssemblyInfo.cs
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.csproj.CoreCompileInputs.cache
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.dll
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/refint/Repeat_OOP_and_OTH.dll
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.pdb
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/Repeat_OOP_and_OTH.genruntimeconfig.cache
+/Users/haplo/Docs/C#/csFIles/Repeat_OOP_and_OTH/Repeat_OOP_and_OTH/obj/Debug/net7.0/ref/Repeat_OOP_and_OTH.dll

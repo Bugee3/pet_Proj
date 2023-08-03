@@ -1,0 +1,146 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <SOAP-ENC:Array id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:LibraryPerson[20]">
+      <item href="#ref-2" />
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+      <item href="#ref-9" />
+      <item href="#ref-10" />
+      <item href="#ref-11" />
+      <item href="#ref-12" />
+      <item href="#ref-13" />
+      <item href="#ref-14" />
+      <item href="#ref-15" />
+      <item href="#ref-16" />
+      <item href="#ref-17" />
+      <item href="#ref-18" />
+      <item href="#ref-19" />
+      <item href="#ref-20" />
+      <item href="#ref-21" />
+    </SOAP-ENC:Array>
+    <a1:LibraryPerson id="ref-2" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-22">RPXNHMISC</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>29</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9343376</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Doctor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-23">PZXOPEFAA</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>35</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9867698</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Administration</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-24">CCOUTBAVC</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>24</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9165154</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Cook</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-25">RHWOWIFDK</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>18</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9146005</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Janitor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-26">KWPFGAWGT</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>43</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9682033</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Janitor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-27">TKRHPMXDH</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>41</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9611844</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Publisher</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-28">NGEZAGEZA</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>18</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9059458</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Cook</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-29">TGSPJACZX</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>25</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9678391</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Publisher</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-30">ADSHTQWAK</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>43</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9657228</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Cook</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-31">JYYAKUWYE</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>34</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9644272</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Doctor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-32">JZDAXLNYD</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>21</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9303350</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Administration</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-33">WWACLSDJK</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>44</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9281957</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Cook</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-34">PEICUNFJH</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>32</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9699389</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Publisher</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-35">USPADSGET</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>34</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9572915</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Janitor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-36">NMIPXFJBA</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>33</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9468472</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Janitor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-37">YFTAQPKXK</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>45</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9268321</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Cook</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-38">OFEAVPBID</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>40</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9224119</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Administration</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-39">KHIFBZHHM</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>28</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9135634</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Janitor</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-40">GPCMCXRRQ</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>26</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9975495</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Administration</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+    <a1:LibraryPerson id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializationOfStudents/ConsoleApp1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_PersonalName_x003E_k__BackingField id="ref-41">SZZJEUQHE</_x003C_PersonalName_x003E_k__BackingField>
+      <_x003C_PersonalOld_x003E_k__BackingField>40</_x003C_PersonalOld_x003E_k__BackingField>
+      <_x003C_PersonalId_x003E_k__BackingField>9020568</_x003C_PersonalId_x003E_k__BackingField>
+      <_x003C_PersonalJobs_x003E_k__BackingField>Assistant</_x003C_PersonalJobs_x003E_k__BackingField>
+    </a1:LibraryPerson>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>ENV:Envelope>

@@ -1,0 +1,15 @@
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/bin/Debug/net7.0/TCPServerProtocol
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/bin/Debug/net7.0/TCPServerProtocol.deps.json
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/bin/Debug/net7.0/TCPServerProtocol.runtimeconfig.json
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/bin/Debug/net7.0/TCPServerProtocol.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/bin/Debug/net7.0/TCPServerProtocol.pdb
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.csproj.AssemblyReference.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.AssemblyInfoInputs.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.AssemblyInfo.cs
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.csproj.CoreCompileInputs.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/refint/TCPServerProtocol.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.pdb
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/TCPServerProtocol.genruntimeconfig.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/TCPServerProtocol/obj/Debug/net7.0/ref/TCPServerProtocol.dll

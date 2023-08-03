@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hU9kZR5Tc5LyxjgRoXs6G0PXOvQpetTtA7Jvf0X6GLBEFv2wnvOYRAwnUv4cEtjdTXQAGFjYQi5D/hdB5L8Wiw==",
+  "success": true,
+  "projectFilePath": "/Users/haplo/C#/csFIles/Attributes_MetaDate/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/haplo/.nuget/packages/soapformatter/1.1.9/soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

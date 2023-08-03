@@ -1,0 +1,15 @@
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/bin/Debug/net7.0/Attributes_MetaDate
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/bin/Debug/net7.0/Attributes_MetaDate.deps.json
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/bin/Debug/net7.0/Attributes_MetaDate.runtimeconfig.json
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/bin/Debug/net7.0/Attributes_MetaDate.dll
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/bin/Debug/net7.0/Attributes_MetaDate.pdb
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.csproj.AssemblyReference.cache
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.AssemblyInfoInputs.cache
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.AssemblyInfo.cs
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.csproj.CoreCompileInputs.cache
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.dll
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/refint/Attributes_MetaDate.dll
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.pdb
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/Attributes_MetaDate.genruntimeconfig.cache
+/Users/haplo/Desktop/C#/Attributes_MetaDate/Attributes_MetaDate/obj/Debug/net7.0/ref/Attributes_MetaDate.dll

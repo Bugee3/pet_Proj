@@ -1,0 +1,15 @@
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/bin/Debug/net7.0/Async_Thread
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/bin/Debug/net7.0/Async_Thread.deps.json
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/bin/Debug/net7.0/Async_Thread.runtimeconfig.json
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/bin/Debug/net7.0/Async_Thread.dll
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/bin/Debug/net7.0/Async_Thread.pdb
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.csproj.AssemblyReference.cache
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.AssemblyInfoInputs.cache
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.AssemblyInfo.cs
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.csproj.CoreCompileInputs.cache
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.dll
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/refint/Async_Thread.dll
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.pdb
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/Async_Thread.genruntimeconfig.cache
+/Users/haplo/C#/csFIles/Async_Thread/Async_Thread/obj/Debug/net7.0/ref/Async_Thread.dll

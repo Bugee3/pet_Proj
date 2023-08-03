@@ -1,0 +1,15 @@
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/bin/Debug/net7.0/ClientTCP
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/bin/Debug/net7.0/ClientTCP.deps.json
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/bin/Debug/net7.0/ClientTCP.runtimeconfig.json
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/bin/Debug/net7.0/ClientTCP.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/bin/Debug/net7.0/ClientTCP.pdb
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.csproj.AssemblyReference.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.AssemblyInfoInputs.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.AssemblyInfo.cs
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.csproj.CoreCompileInputs.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/refint/ClientTCP.dll
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.pdb
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ClientTCP.genruntimeconfig.cache
+/Users/haplo/C#/csFIles/ServerTCP_UDP/ClientTCP/obj/Debug/net7.0/ref/ClientTCP.dll

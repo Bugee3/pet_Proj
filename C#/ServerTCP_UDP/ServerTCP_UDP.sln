@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerProtocol", "TCPServerProtocol\TCPServerProtocol.csproj", "{6A80ECD6-4374-4269-82B5-3AB133D5C869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerProtocol", "UDPServerProtocol\UDPServerProtocol.csproj", "{33DF79DC-918E-4DBE-8C9C-A4D9361E3C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A80ECD6-4374-4269-82B5-3AB133D5C869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A80ECD6-4374-4269-82B5-3AB133D5C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A80ECD6-4374-4269-82B5-3AB133D5C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A80ECD6-4374-4269-82B5-3AB133D5C869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DF79DC-918E-4DBE-8C9C-A4D9361E3C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DF79DC-918E-4DBE-8C9C-A4D9361E3C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DF79DC-918E-4DBE-8C9C-A4D9361E3C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DF79DC-918E-4DBE-8C9C-A4D9361E3C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
